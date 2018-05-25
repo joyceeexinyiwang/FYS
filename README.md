@@ -1,14 +1,14 @@
 # Fifth Year Scholar Porject
-Research and experiments for the community project -- an adisciplinary idea fest -- as part of Joyce Wang's Fifth Year Scholarship (2018-2019) sponsored by Carnegie Mellon University.
+Planning, research, and experiments for **the adisciplinary idea fest**, a community project as part of Joyce Wang's Fifth Year Scholarship (2018-2019) sponsored by Carnegie Mellon University.
 
-[Concept](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#concept)
-[Incentives](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#incentives)
-[Inspirations](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#inspirations)
-[Currently...](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#currently...)
+  - [Concept](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#concept)
+  - [Incentives](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#incentives)
+  - [Inspirations](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#inspirations)
+  - [Currently...](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#currently)
 
 ## Concept
-The concept of this event is rooted in the belief that our campus can be stronger if we step out of our academic silos,
-and learn to understand how each other thinks.
+*This purpose of this event is rooted in the belief that our campus can be stronger if we step out of our academic silos,
+and learn to understand how each other thinks.*
 
 It is for the entire Carnegie Mellon campus — undergraduate student, graduate students, faculty and staff. It asks participants from distinct disciplines to form groups of 2, and create something new that draws from their knowledge and experience. 
 
