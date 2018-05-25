@@ -1,6 +1,11 @@
 # Fifth Year Scholar Porject
 Research and experiments for the community project -- an adisciplinary idea fest -- as part of Joyce Wang's Fifth Year Scholarship (2018-2019) sponsored by Carnegie Mellon University.
 
+Concept
+Incentives
+Inspirations
+Currently...
+
 ## Concept
 The concept of this event is rooted in the belief that our campus can be stronger if we step out of our academic silos,
 and learn to understand how each other thinks.
@@ -41,9 +46,8 @@ In fact, Pittsburgh has its own version of Fringe Festival, which I plan to atte
 #### Stever Open-Mic
 In high school, I often went to this restaurant called Al Taller for open mic events. It was a very instrumental experience to my teenage years. After coming to CMU, I missed it a lot, so I organized an open-mic night in Stever with my house fellow Ashley Grice in the fall semester of my freshman year. We had students performing spoken words, rap, storytelling, music, etc. It was a super fun experience for me seeing the wonderful and often surprising talent of my peers. It was also my first time organizing an event at CMU. With my Fifth Year Scholar project, I hope I can bring people together again.
 
-## To-do's
+## Currently...
 - research on Carnegie Mellon University's history of interdisciplinary education
-
-## Activity Ideas
-- board game of Process (player select from a box of premade part indicating segments of process, and then put together to describe how he/she/they think and work)
-- faculty 5-min joined talks
+- Activity Ideas
+  - board game of Process (player select from a box of premade part indicating segments of process, and then put together to describe how he/she/they think and work)
+  - faculty 5-min joined talks
