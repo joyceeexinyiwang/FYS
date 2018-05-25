@@ -1,10 +1,10 @@
 # Fifth Year Scholar Porject
 Research and experiments for the community project -- an adisciplinary idea fest -- as part of Joyce Wang's Fifth Year Scholarship (2018-2019) sponsored by Carnegie Mellon University.
 
-Concept
-Incentives
-Inspirations
-Currently...
+[Concept](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#concept)
+[Incentives](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#incentives)
+[Inspirations](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#inspirations)
+[Currently...](https://github.com/joyceeexinyiwang/FYS/blob/master/README.md#currently...)
 
 ## Concept
 The concept of this event is rooted in the belief that our campus can be stronger if we step out of our academic silos,
