@@ -5,6 +5,8 @@ Planning, research, and experiments for **the adisciplinary idea fest** (to be r
   - [Workshops](#workshops)
   - [Report outline](#report)
 
+---
+
 ## Workshops
 - **games and activities** to discrupt existing social network structures
   - board game of Process (player select from a box of premade part indicating segments of process, and then put together to describe how he/she/they think and work)
