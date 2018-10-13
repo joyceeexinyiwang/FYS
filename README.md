@@ -3,6 +3,7 @@ Planning, research, and experiments for **the adisciplinary idea fest** (to be r
 
   - [Archival research: CMU's interdisciplinary history](./ArchivalResearch.md)
   - [Workshops](#workshops)
+  - [Report outline] (#report)
 
 ## Workshops
 - **games and activities** to discrupt existing social network structures
@@ -10,3 +11,32 @@ Planning, research, and experiments for **the adisciplinary idea fest** (to be r
   - use network analysis techniques to evaluate the before and after of discipline-based network structures
 - faculty 5-min joined talks
 
+## Report
+- timeline of the creation and transformation of schools, academic departments, and interdisciplinary programs
+- how the interdiscplinary landscape came to bring
+  - *Why* did Carnegie Tech expand to other non-technical fields and programs?
+- separate reports on each interdiscplinary programs
+  - BXA
+  - IDeATe
+  - ETC
+  - SHS
+  - Digital Humanities
+  - etc.
+- profiles and interviews with faculty members who employ interdiscplinary pedagogies or whose work embodies interdiscplinarity
+  - Katheleen Carley
+  - David Danks
+  - Golan Levin
+  - Stephanie Murray and Carrie Hagan
+  - etc.
+- interdisciplinary education in other institutions
+  - NYU
+  - MIT
+  - Olin
+  - liberal arts colleges
+  - etc.
+- commentaries
+
+**The purpose of this report**
+- to inform people why and how interdiscplinary education is valued and promoted
+- to inform future students and faculty who want to partake in interdiscplinary education
+- etc.
