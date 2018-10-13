@@ -25,7 +25,7 @@ Planning, research, and experiments for **the adisciplinary idea fest** (to be r
   - Digital Humanities
   - etc.
 - profiles and interviews with faculty members who employ interdiscplinary pedagogies or whose work embodies interdiscplinarity
-  - Katheleen Carley
+  - William Alba
   - David Danks
   - Golan Levin
   - Stephanie Murray and Carrie Hagan
