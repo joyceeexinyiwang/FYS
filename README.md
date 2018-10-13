@@ -3,7 +3,8 @@ Planning, research, and experiments for **the adisciplinary idea fest** (to be r
 
   - [Currently...](#currently)
   - [Ideas](#ideas)
-
+  - CMU's Interdisciplinary History
+  
 ## Currently...
 ### Research on Carnegie Mellon University's history of interdisciplinary education
 [CMU archive](https://digitalcollections.library.cmu.edu/portal/browse.jsp)
