@@ -3,7 +3,7 @@ Planning, research, and experiments for **the adisciplinary idea fest** (to be r
 
   - [Archival research: CMU's interdisciplinary history](./ArchivalResearch.md)
   - [Workshops](#workshops)
-  - [Report outline] (#report)
+  - [Report outline](#report)
 
 ## Workshops
 - **games and activities** to discrupt existing social network structures
