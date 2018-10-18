@@ -1,8 +1,7 @@
-# Archival Research Process
-
-## Resources
+# Resources
 
 (CMU Library Digital Collections)[https://digitalcollections.library.cmu.edu/portal/index.jsp]
+(Past Presidents descriptions from CMU website)[https://www.cmu.edu/leadership/president/past-pres/index.html]
 
 #### Institutional documents
 - Annual President's report (excerpt from reports of each school) *in archives*
