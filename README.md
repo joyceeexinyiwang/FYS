@@ -13,6 +13,12 @@ Planning, research, and experiments for **the adisciplinary idea fest** (to be r
   - use network analysis techniques to evaluate the before and after of discipline-based network structures
 - faculty 5-min joined talks
 
+## People
+
+[Christopher Warren](https://www.cmu.edu/dietrich/english/people/faculty/bios/warren-christopher.html)  
+[David Danks](https://www.cmu.edu/dietrich/philosophy/people/faculty/danks.html)
+
+
 ## Report
 - timeline of the creation and transformation of schools, academic departments, and interdisciplinary programs
 - how the interdiscplinary landscape came to bring
