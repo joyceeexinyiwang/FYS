@@ -1,8 +1,8 @@
 # Fifth Year Scholar Porject (2019-2020)
 Planning, research, and process documentation of Joyce Wang's Fifth Year Scholarship (2019-2020) sponsored by Carnegie Mellon University.
 
-  - [Part One: Research and Assessment](#research_and_assessment)
-  - [Part Two Workshops](#action)
+  - [Part One: Research and Assessment](#part-one-research-and-assessment)
+  - [Part Two Workshops](#part-two-action)
 
 ---
 
@@ -63,7 +63,7 @@ Planning, research, and process documentation of Joyce Wang's Fifth Year Scholar
   - physical exhibition (possibly in the CUC) of the evolution of the interdisciplinary structure at CMU
   - document with all existing interdisciplinary resources on campus (printed or in the form of a pdf) 
 
-## PART ONE: Action
+## PART TWO: Action
 - **games and activities** to discrupt existing social network structures
   - board game of Process (player select from a box of premade part indicating segments of process, and then put together to describe how he/she/they think and work)
   - use network analysis techniques to evaluate the before and after of discipline-based network structures
