@@ -1,5 +1,47 @@
-##### 5/30/18
-Observing communication gaps between creatives and CS PhD's at DR
+### Thesis
+
+> Interdisciplinarity: very much research and course offerings. A certain degree in pedagogies among a subset of professors.
+
+> What hinders interdisciplinarity and produces academic silos is systematic and institutional constraints (e.g., graduation requirements, fundings) the pragmatism (CMU started as a vocational school and professional prep is still the priority of many students)
+
+
+### Threads
+Fundings of different schools (budgets from Office of the President's records)
+
+- timeline of interdisciplinary centers
+  - BXA, ETC, IDeATe, STUDIO (and its previous iterations), Digital Humanties, CFA from very beginning
+- existing interdisciplinary research efforts
+- existing interdisciplinary course offerings
+- existing interdisciplinary pedagogies
+- existing systematic and institutional structures 
+  - fundings
+  - curriculum design
+
+##### 11/14/2018
+
+- [Steven Schlossman](https://www.cmu.edu/dietrich/history/people/faculty/schlossman.html)
+- [Joel A. Tarr](https://www.cmu.edu/dietrich/history/people/faculty/tarr.html)
+
+"Carnegie Mellon 1900-2000: A Centennial History" (2000) by Edwin Fenton
+- p109-110: discarding the trade school origins, separated into three colleges (college of engineering and science, college of fine arts, and margaret morrison carnegie college)
+
+President's reports
+
+2008: BCSA
+
+1940s Doherty: Carnegie Plan
+
+[CMU History and Organization pdf](https://www.cmu.edu/ira/factbook/pdf/facts2016/history-and-organization.pdf)
+
+Digital Arts exchange program (like an early iteration of STUDIO)
+
+
+##### 11/7/2018
+"Carnegie Mellon: A Portrait" (1993) by Harold Corsini
+- images and quotes
+
+"Carnegie Mellon 1900-2000: A Centennial History" (2000) by Edwin Fenton
+
 
 ##### 10/24/18
 
@@ -17,3 +59,7 @@ Mosteller & Wallace assumptions:
 
 Stephen King's book of advice on writing: "The road to hell is paved with adverbs."
 
+
+
+##### 5/30/18
+Observing communication gaps between creatives and CS PhD's at DR

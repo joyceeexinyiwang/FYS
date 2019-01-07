@@ -1,7 +1,11 @@
 # Resources
 
-(CMU Library Digital Collections)[https://digitalcollections.library.cmu.edu/portal/index.jsp]
-(Past Presidents descriptions from CMU website)[https://www.cmu.edu/leadership/president/past-pres/index.html]
+[CMU Library Digital Collections](https://digitalcollections.library.cmu.edu/portal/index.jsp)  
+[Past Presidents descriptions from CMU website](https://www.cmu.edu/leadership/president/past-pres/index.html)
+
+#### People
+- [Christopher Warren](https://www.cmu.edu/dietrich/english/people/faculty/bios/warren-christopher.html)  
+- [David Danks](https://www.cmu.edu/dietrich/philosophy/people/faculty/danks.html)
 
 #### Institutional documents
 - Annual President's report (excerpt from reports of each school) *in archives*
