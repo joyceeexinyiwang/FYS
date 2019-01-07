@@ -8,6 +8,9 @@ Planning, research, and process documentation of Joyce Wang's Fifth Year Scholar
 
 ## Team???
 
+## Funding???
+[CMU Crowdfunding](https://crowdfunding.cmu.edu/)
+
 ## Research and Assessment
 
 ### Goal 
