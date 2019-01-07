@@ -11,7 +11,7 @@ Planning, research, and process documentation of Joyce Wang's Fifth Year Scholar
 ## Funding???
 [CMU Crowdfunding](https://crowdfunding.cmu.edu/)
 
-## Research and Assessment
+## PART ONE: Research and Assessment
 
 ### Goal 
 - develop a well-informed understanding of the current institutional structure that supports interdisciplinary research and education
@@ -63,7 +63,7 @@ Planning, research, and process documentation of Joyce Wang's Fifth Year Scholar
   - physical exhibition (possibly in the CUC) of the evolution of the interdisciplinary structure at CMU
   - document with all existing interdisciplinary resources on campus (printed or in the form of a pdf) 
 
-## Action
+## PART ONE: Action
 - **games and activities** to discrupt existing social network structures
   - board game of Process (player select from a box of premade part indicating segments of process, and then put together to describe how he/she/they think and work)
   - use network analysis techniques to evaluate the before and after of discipline-based network structures
