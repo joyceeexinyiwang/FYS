@@ -1,4 +1,4 @@
-# Fifth Year Scholar Porject (2019-2020)
+# Fifth Year Scholar Project (2019-2020)
 Planning, research, and process documentation of Joyce Wang's Fifth Year Scholarship (2019-2020) sponsored by Carnegie Mellon University.
 
   - [Part One: Research and Assessment](#part-one-research-and-assessment)
