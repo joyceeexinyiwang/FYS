@@ -42,6 +42,7 @@ Report 2: experimenting with solutions (asset map, workshops, events)
 - Renee Camerlengo, Fifth Year Scholar advisor
 
 *Also received support from*
+- Prof. William Alba
 - Dr. Jen Gilbride-Brown, Assistant Vice Provost for Strategic Academic Initiatives
-- Mike Skirpan, special faculty, founder of Community Forge
+- Dr. Mike Skirpan, special faculty, founder of Community Forge
 - Dr. Janel Sutkus, Institutional Research and Analysis

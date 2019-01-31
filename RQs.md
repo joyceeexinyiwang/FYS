@@ -19,8 +19,17 @@ What is the process of exploring academic interests and switching majors at CMU?
 #### RQ5 
 What is the experience like as an interdisciplinary faculty/staff at CMU?
 
+*Hypo: decentralized institution (referring to history), easy for faculty cross-departmental collaborations; lots of resources and information contained within departments*
+
+*Hypo: little funding for individuals who are designated to facilitate interdisciplinary studies*
+
+
 #### RQ6
 What motivate stuents to pursue (or not pursue) interdisciplinary studies?
+
+*Hypo: pragmatic culture*
+
+*Hypo: too many curriculum requirements (accreditation)*
 
 #### RQ7
 What motivate faculty and staff to encourage (or not encourage) undergraduate students to pursue interdisciplinary studies?
