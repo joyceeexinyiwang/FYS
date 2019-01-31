@@ -1,11 +1,34 @@
-### Thesis
+
+
+##### 1/24/2018
+
+(reframing)
+
+- Identify and articulate the problem
+    - Research on history
+    - Draft report on hypotheses (why are students interested or not interested? why is it hard to pursue interdisciplinary experiences? why do academic silos exist? who can help?)
+    - Pull together a team
+     Focus groups
+- Solve the problem
+    - 10min joint-talks
+    - Process-based hackathons = short simulations of interdisciplinary collaboration (and measurement of success)
+    - discussions on specific interdisciplinary problems
+        - provide information before the deliberation process
+        - environmental issues
+
+##### 1/20/2018
+
+(reframing)
+
+**Thesis**
 
 > Interdisciplinarity: very much research and course offerings. A certain degree in pedagogies among a subset of professors.
 
 > What hinders interdisciplinarity and produces academic silos is systematic and institutional constraints (e.g., graduation requirements, fundings) the pragmatism (CMU started as a vocational school and professional prep is still the priority of many students)
 
 
-### Threads
+**Threads**
+
 Fundings of different schools (budgets from Office of the President's records)
 
 - timeline of interdisciplinary centers
