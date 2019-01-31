@@ -7,7 +7,7 @@ GOAL: improving the experience of interdisciplinary studies for undergraduate st
 
 ## Approach (as if 1/31/2019)
 
-- Assessment
+- **Assessment**
   - Students
     - Undergraduate students who are currently in an interdisciplinary program or double majors: how they found this program, the support they have received in their studies, the support they wished they have received.
     - Undergraduate students who are not in an interdisciplinary program or double majors: curiosity and interests towards interdisciplinary studies,  the support they've received towards interdisciplinary studies.
@@ -21,15 +21,17 @@ GOAL: improving the experience of interdisciplinary studies for undergraduate st
     - Perception of students interests towards interdisciplinary studies
     - Whether they have provided support for interested students
     - The resources they have received to facilitate interdisciplinary experiences for students
-- Analysis of resource gaps
+- **Analysis of resource gaps**
+  - Want
+    - whether students and faculty are interested in pursuing or facilitating interdisciplinary undergraduate studies, and why (referring to the history of the institution)
   - Needs
     - what students need to explore beyond their programs
     - what advisors and faculty need to facilitate interdisciplinary studies
   - Resources
-    -  what existing resources are there to support students, faculty, and staff
-- Creation of asset map
+    - what existing resources are there to support students, faculty, and staff
+- **Creation of asset map**
   - network of funding and mentorship structures
-- Workshops, events, and student organization 
+- **Workshops, events, and student organization** 
 
 ## Product
 Report 1: identifying problems (assessment, resource gaps)  
